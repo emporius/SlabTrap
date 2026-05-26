@@ -194,3 +194,7 @@ This happens because boolean operations compute intersections and region members
 ## License
 
 Licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this in personal or commercial projects.
+
+---
+
+Note on AI use: I used AI to spruce up the code with in-line comments as explainers and for formatting the read.me. The actual code however, was written by me. 
