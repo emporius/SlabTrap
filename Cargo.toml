@@ -1,0 +1,16 @@
+[package]
+name = "slab_tessellator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Shakira"]
+description = "A lightweight, zero-dependency, and mathematically robust 2D polygon triangulation library based on horizontal slab (trapezoidal) decomposition."
+readme = "README.md"
+license = "MIT"
+keywords = ["triangulation", "tessellation", "polygon", "graphics", "scanline"]
+categories = ["graphics", "rendering", "algorithms"]
+
+[dependencies]
+# Zero dependencies!
+
+[workspace]
+
