@@ -1,4 +1,4 @@
-# Slab Trap 🪚
+# Slab Trap 
 
 A lightweight, zero-dependency, and 2D polygon triangulation solution fully in Rust, based on horizontal slab (trapezoidal) decomposition for fast and robust post-boolean op rendering.
 
